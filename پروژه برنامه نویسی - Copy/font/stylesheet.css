@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Mj_Ramolah Outline';
+    src: url('Mj_RamolahOutline.eot');
+    src: url('Mj_RamolahOutline.eot?#iefix') format('embedded-opentype'),
+        url('Mj_RamolahOutline.woff2') format('woff2'),
+        url('Mj_RamolahOutline.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mj_Ramollah';
+    src: url('Mj_Ramollah.eot');
+    src: url('Mj_Ramollah.eot?#iefix') format('embedded-opentype'),
+        url('Mj_Ramollah.woff2') format('woff2'),
+        url('Mj_Ramollah.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
